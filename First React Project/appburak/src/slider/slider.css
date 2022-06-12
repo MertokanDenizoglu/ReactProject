@@ -1,0 +1,29 @@
+.h6 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color: black;
+  margin-bottom: 300px;
+  border: 7px solid green;
+  border-radius: 40px;
+}
+
+.h6 :hover {
+  color: black;
+}
+
+.h6 .ptext {
+  font-size: 20px;
+}
+
+.MERT {
+  font-size: 20px;
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 80px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*# sourceMappingURL=slider.css.map */
